@@ -8,5 +8,6 @@ Economic Research Analysis using Stata
 effect, while upholding the assumptions of causal inference.
 
 Included files:
-  1. Stata Code
-  2. CSV file with data
+  1. Stata Code with code that created graphs and calculations
+  2. Two CSV files with data that was used for drunk driving analysis
+  3. Paper written describing the results of the code analysis
