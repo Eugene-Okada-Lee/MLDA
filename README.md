@@ -1,4 +1,6 @@
-#Minimum Legal Drinking Age Project (STATA) 
+Minimum Legal Drinking Age Project (STATA) 
+
+
 Economic Research Analysis using Stata
   – Conducted research using a regression discontinuity design to figure out if the Minimum Legal Drinking Age
 (MLDA) reduces the proportion of the population that drinks and if the MLDA helps reduce crime.
